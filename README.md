@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Princewill-chala
 -  I'm CEO/Founder of CHALA LOKAL INC. LIMITED
-- 👀 I’m interested in ...I'm a Data Analyst passionate about turning raw data into meaningful insights. I enjoy working with data to uncover trends, make data-driven decisions, and build impactful visualizations.
-- 🌱 I’m currently learning ...Data analysis & Visualization, SQL & Python , Business Intelligence , Machine Learning etc.
-- 💞️ I’m looking to collaborate on here & I'm excited to connect with fellow data enthusiasts, share knowledge, and contribute to meaningful projects.
+-  Tech-savvy Data Analyst with a strong foundation in cybersecurity, web development, and cloud computing. Skilled in transforming complex data into actionable insights using         Excel and Power BI to drive smart, secure, and sustainable solutions.
+-  I’m looking to collaborate on here & excited to connect with fellow data enthusiasts, share knowledge, and contribute to meaningful projects.
 - 📫 How to reach me .. https://x.com/Chala_lokal
-- 😄 Pronouns: He/Him
+-  He/Him
 - ⚡ Fun fact: ...A group of flamingos is called a "flamboyance." 🦩✨
 
 <!---
