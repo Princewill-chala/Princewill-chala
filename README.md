@@ -1,6 +1,6 @@
 ![princewill](Github_profile.png) 
 **Cloud Engineer** passionate about solving real-world problems through technology.  
-I enjoy working with **AWS**, **SQL**, **Power BI**, **Python**, and **network security tools**.  
+Working with **AWS**, **SQL**, **Power BI**, **Python**, and **network security tools**.  
 My curiosity drives me toward a world where **creativity meets impact** — building things that not only work but matter.
 
 ---
