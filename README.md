@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Princewill-chala
-- Skilled in Data Analysis (Excel, Power BI)
+- Hi, I’m @Princewill-chala
+- Skilled in Data Analysis (Excel, Power BI, SQL)
 
 - Experienced in Cloud Computing and Cybersecurity
 
