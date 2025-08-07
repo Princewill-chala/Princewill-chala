@@ -6,10 +6,10 @@ My curiosity drives me toward a world where **creativity meets impact** — buil
 ---
 
 ### 🌐 Find me 
-🔗 [Portfolio](#https://www.elochukwuprincewill.com)
-💼 [LinkedIn](#https://www.linkedin.com/in/elochukwu-princewill)
-🐦 [Twitter](#https://x.com/Chala_lokal)
-💻 [GitHub](#https://www.github.com/in/Princewill-chala)
+🔗 ![Portfolio](#https://www.elochukwuprincewill.com)
+💼 ![LinkedIn](#https://www.linkedin.com/in/elochukwu-princewill)
+🐦 ![Twitter](#https://x.com/Chala_lokal)
+💻 ![GitHub](#https://www.github.com/in/Princewill-chala)
 
 > *"Tech is my canvas. I build, secure, and visualize the future."*
 <!---
