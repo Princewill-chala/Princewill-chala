@@ -1,22 +1,15 @@
-#  Hi, Im Princewill
-Skilled in transforming data, securing infrastructure, and building the web.
+![princewill](Github_profile.png) 
+I'm a **Cloud Engineer** passionate about solving real-world problems through technology.  
+I enjoy working with **AWS**, **SQL**, **Power BI**, **Python**, and **network security tools**.  
+My curiosity drives me toward a world where **creativity meets impact** — building things that not only work but matter.
 
 ---
 
-### 💼Skillset
-
-☁️ **Cloud & Cybersecurity** — Experienced in securing systems and deploying infrastructure in the cloud. Proficient in network scanning, vulnerability assessment, firewall configuration, IAM, and using tools like Nmap, Wireshark, Shodan, and Qualys.
-
-📊 **Data Analyst** — Using SQL, Power BI, and Excel to uncover insights that drive business decisions.
-
-💻 **Web Developer** — Building functional, responsive, and user-focused websites and applications.
-
----
-
-### 📫 Connect with Me
-(https://x.com/Chala_lokal)
-
----
+### 🌐 Find me 
+🔗 [Portfolio](#https://www.elochukwuprincewill.com)
+💼 [LinkedIn](#https://www.linkedin.com/in/elochukwu-princewill)
+🐦 [Twitter](#https://x.com/Chala_lokal)
+💻 [GitHub](#https://www.github.com/in/Princewill-chala)
 
 > *"Tech is my canvas. I build, secure, and visualize the future."*
 <!---
