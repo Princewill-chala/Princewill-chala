@@ -3,8 +3,8 @@
 
 ## Skills
 
-- **Cloud Computing -> AWS** : To design, deploy, and manage scalable and secure applications in the cloud.
-- **Cybersecurity & Networking** : To understand, secure, and test systems and networks from both a defensive and offensive perspective.
+- **Cloud Computing -> AWS** : To design, deploy, manage scalable and secure infastructures in the cloud.
+- **Cybersecurity & Networking** : To understand, secure, test systems and networks from both a defensive and offensive perspective.
 - **Data Analytics** : To extract, clean, analyze, and visualize data for insights that drive smarter decision-making.
 - **Web Development** : To build responsive, user-friendly, and interactive web applications.
 
